@@ -1,0 +1,5 @@
+*.asc linguist-language=Other
+git add .gitattributes
+git commit -m "Fix GitHub wrongly detecting .asc files as AGS Script"
+git push
+
